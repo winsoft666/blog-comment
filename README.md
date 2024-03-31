@@ -1,2 +1,1 @@
-# blog-comment
-jiangxueqiao.com博客评论
+您通过提交Issue的方式发表评论
